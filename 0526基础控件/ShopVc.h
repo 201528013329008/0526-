@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-
+@class Shop;
+@class ShopView;
 @interface ViewController : UIViewController
 
 
